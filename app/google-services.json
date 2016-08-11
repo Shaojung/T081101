@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813343636898",
+    "firebase_url": "https://api-project-813343636898.firebaseio.com",
+    "project_id": "api-project-813343636898",
+    "storage_bucket": "api-project-813343636898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813343636898:android:0f863ade0ffc4e09",
+        "android_client_info": {
+          "package_name": "tw.com.pcschool.t081101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813343636898-ojbsoueahc7accsc7cilvlkiqocs1ofq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.com.pcschool.t081101",
+            "certificate_hash": "DB90C0F3802CE947BA9709FB04BD3EEB3A71ADF2"
+          }
+        },
+        {
+          "client_id": "813343636898-n2k70i9ftbqctn8ovjto0gpjsdvgerqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWn833Dbyy3jAUDySbzyLrMDnBgyMLRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813343636898-n2k70i9ftbqctn8ovjto0gpjsdvgerqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
